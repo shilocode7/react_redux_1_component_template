@@ -1,0 +1,1 @@
+export const MY_SERVER = "http://localhost:3001/students"
