@@ -1,4 +1,4 @@
-#my back was simple json with no back code
+# my back was simple json with no back code
 
 # Getting Started with Create React App
 
